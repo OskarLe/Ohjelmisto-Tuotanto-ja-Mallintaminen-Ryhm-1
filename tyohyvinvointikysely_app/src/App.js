@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
 
-import { Route, Link, Switch, Redirect } from "react-router-dom";
+import { Route, Switch, Redirect } from "react-router-dom";
 
 import Home from "./components/Home";
 import Survey from "./components/Survey";
@@ -11,15 +11,14 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h3 className="Header-text">Työterveyshyvinvointikysely</h3>
+          <h3 className="Header-text">Työhyvinvointikysely</h3>
         </header>
-        <div className="App-intro">
-          <Switch>
-            <Route exact path="/" component={Home} />
-            <Route path="/survey" component={Survey} />
-            <Redirect to="/" />
-          </Switch>
-        </div>
+ 
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route path="/Survey" component={Survey} />
+          <Redirect to="/" />
+        </Switch>
       </div>
     );
   }

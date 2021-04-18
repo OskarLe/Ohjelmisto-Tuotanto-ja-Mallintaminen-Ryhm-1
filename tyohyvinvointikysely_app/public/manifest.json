@@ -1,6 +1,6 @@
 {
-  "short_name": "KyselyApp",
-  "name": "Työterveys hyvinvointikysely",
+  "short_name": "Työkysely",
+  "name": "Työhyvinvointikysely",
   "icons": [],
   "start_url": ".",
   "display": "standalone",
