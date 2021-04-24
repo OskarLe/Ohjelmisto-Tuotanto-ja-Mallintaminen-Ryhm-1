@@ -4,9 +4,9 @@ import "./App.css";
 import { Route, Switch, Redirect } from "react-router-dom";
 
 import Home from "./components/Home";
-import Survey from "./components/Survey";
+import SurveyPage from "./components/Survey";
 
-class App extends Component {
+class App extends Component {s
   render() {
     return (
       <div className="App">
@@ -16,7 +16,7 @@ class App extends Component {
  
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route path="/Survey" component={Survey} />
+          <Route path="/Survey" component={SurveyPage} />
           <Redirect to="/" />
         </Switch>
       </div>
