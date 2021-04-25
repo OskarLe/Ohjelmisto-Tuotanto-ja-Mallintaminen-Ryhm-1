@@ -12,7 +12,6 @@ const Home = () => (
         </button>
       </Link>
     </p>
-  <h2>Kyselyn vastauksia käytetään anonyymiin tutkimukseen opiskelijoiden hyvinvoinnista.</h2>
   </div>
 );
 
