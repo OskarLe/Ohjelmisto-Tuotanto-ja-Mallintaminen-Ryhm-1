@@ -1,8 +1,12 @@
 {
   "locale": "fi",
   "title": {
-   "default": "Answering the survey is completely anonymous.",
-   "fi": "Vastaaminen on täysin anonyymiä"
+   "default": "Work well-being survey",
+   "fi": "Työhyvinvointikysely"
+  },
+  "description": {
+   "fi": "Vastaaminen on täysin anonyymiä.",
+   "default": "Answering the survey is completely anonymous."
   },
   "pages": [
    {
