@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tyohyvinvointikysely/static/css/main.30ef622e.chunk.css",
+    "main.js": "/tyohyvinvointikysely/static/js/main.b576c372.chunk.js",
+    "main.js.map": "/tyohyvinvointikysely/static/js/main.b576c372.chunk.js.map",
+    "runtime-main.js": "/tyohyvinvointikysely/static/js/runtime-main.5e2e9a66.js",
+    "runtime-main.js.map": "/tyohyvinvointikysely/static/js/runtime-main.5e2e9a66.js.map",
+    "static/css/2.1111f917.chunk.css": "/tyohyvinvointikysely/static/css/2.1111f917.chunk.css",
+    "static/js/2.025befbe.chunk.js": "/tyohyvinvointikysely/static/js/2.025befbe.chunk.js",
+    "static/js/2.025befbe.chunk.js.map": "/tyohyvinvointikysely/static/js/2.025befbe.chunk.js.map",
+    "static/js/3.db1747bb.chunk.js": "/tyohyvinvointikysely/static/js/3.db1747bb.chunk.js",
+    "static/js/3.db1747bb.chunk.js.map": "/tyohyvinvointikysely/static/js/3.db1747bb.chunk.js.map",
+    "index.html": "/tyohyvinvointikysely/index.html",
+    "static/css/2.1111f917.chunk.css.map": "/tyohyvinvointikysely/static/css/2.1111f917.chunk.css.map",
+    "static/css/main.30ef622e.chunk.css.map": "/tyohyvinvointikysely/static/css/main.30ef622e.chunk.css.map",
+    "static/js/2.025befbe.chunk.js.LICENSE.txt": "/tyohyvinvointikysely/static/js/2.025befbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e2e9a66.js",
+    "static/css/2.1111f917.chunk.css",
+    "static/js/2.025befbe.chunk.js",
+    "static/css/main.30ef622e.chunk.css",
+    "static/js/main.b576c372.chunk.js"
+  ]
+}
