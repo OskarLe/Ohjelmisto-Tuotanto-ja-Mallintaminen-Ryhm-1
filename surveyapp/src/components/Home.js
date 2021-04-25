@@ -10,9 +10,9 @@ const Home = () => (
         <button className="Button" type="button">
           Kyselyyn
         </button>
-  <h3>Kyselyn vastauksia käytetään anonyymiin tutkimukseen opiskelijoiden hyvinvoinnista.</h3>
       </Link>
     </p>
+  <h2>Kyselyn vastauksia käytetään anonyymiin tutkimukseen opiskelijoiden hyvinvoinnista.</h2>
   </div>
 );
 
