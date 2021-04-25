@@ -1,17 +1,27 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+
 const Home = () => (
   <div>
-    <h2>Tervetuloa kyselyyn!</h2>
-    Aloita kysely alla olevasta napista:
-    <p>
-      <Link to="/Survey">
+    <header className="App-header">
+      <h3 className="Header-text">Työhyvinvointikysely</h3>
+    </header>
+
+    <h2>Welcome to the survey!</h2>
+    Choose your language:
+    <br/>
+      <Link to="/Survey_fi">
         <button className="Button" type="button">
-          Kyselyyn
+          Suomi
         </button>
       </Link>
-    </p>
+
+      <Link to="/Survey_en">
+        <button className="Button" type="button">
+          English
+        </button>
+      </Link>
   </div>
 );
 

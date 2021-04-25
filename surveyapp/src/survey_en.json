@@ -1,0 +1,177 @@
+{
+  "locale": "en",
+  "title": {
+   "default": "Answering the survey is completely anonymous.",
+   "fi": "Vastaaminen on täysin anonyymiä"
+  },
+  "pages": [
+   {
+    "name": "page1",
+    "elements": [
+     {
+      "type": "checkbox",
+      "name": "question0",
+      "minWidth": "",
+      "maxWidth": "",
+      "title": {
+       "default": "How do you sleep?",
+       "fi": "Kuinka hyvin nukut?"
+      },
+      "isRequired": true,
+      "choices": [
+       {
+        "value": "item1",
+        "text": {
+         "default": "Extremely well",
+         "fi": "Erittäin hyvin"
+        }
+       },
+       {
+        "value": "item2",
+        "text": {
+         "default": "Great",
+         "fi": "Hyvin"
+        }
+       },
+       {
+        "value": "item3",
+        "text": {
+         "default": "Badly",
+         "fi": "Huonosti"
+        }
+       }
+      ]
+     },
+     {
+      "type": "radiogroup",
+      "name": "question1",
+      "minWidth": "",
+      "maxWidth": "",
+      "title": {
+       "default": "Pick one that is most important for you:",
+       "fi": "Valitse tärkein:"
+      },
+      "isRequired": true,
+      "choices": [
+       {
+        "value": "item3",
+        "text": {
+         "default": "Childhood friends",
+         "fi": "Lapsuudenkaverit"
+        }
+       },
+       {
+        "value": "item2",
+        "text": {
+         "default": "Colleagues",
+         "fi": "Työkaverit"
+        }
+       },
+       {
+        "value": "item1",
+        "text": {
+         "default": "Family and loved ones",
+         "fi": "Perhe ja läheiset"
+        }
+       },
+       {
+        "value": "item4",
+        "text": {
+         "default": "Life partner",
+         "fi": "Elämänkumppani"
+        }
+       },
+       {
+        "value": "item5",
+        "text": {
+         "default": "Pets",
+         "fi": "Lemmikit"
+        }
+       }
+      ]
+     },
+     {
+      "type": "radiogroup",
+      "name": "question2",
+      "minWidth": "",
+      "maxWidth": "",
+      "title": {
+       "default": "What makes you get up in the morning?",
+       "fi": "Mikä saa sinut nousemaan ylös aamuisin?"
+      },
+      "isRequired": true,
+      "choices": [
+       {
+        "value": "item1",
+        "text": {
+         "default": "Alarm clock and hunger",
+         "fi": "Herätyskello ja nälkä"
+        }
+       },
+       {
+        "value": "item2",
+        "text": {
+         "default": "I need to get money",
+         "fi": "Pakko mennä tienaamaan rahaa"
+        }
+       },
+       {
+        "value": "item3",
+        "text": {
+         "default": "So I can get back to work",
+         "fi": "Jotta pääsisin takaisin töihin"
+        }
+       }
+      ]
+     },
+     {
+      "type": "comment",
+      "name": "question3",
+      "minWidth": "",
+      "maxWidth": "",
+      "title": {
+       "default": "Free word about the work atmosphere in the workplace:",
+       "fi": "Vapaa sana koskien työpaikan työilmapiiriä:"
+      }
+     },
+     {
+      "type": "dropdown",
+      "name": "question4",
+      "minWidth": "",
+      "maxWidth": "",
+      "title": {
+       "default": "What was best about this survey?",
+       "fi": "Mikä oli parasta kyselyssä?"
+      },
+      "isRequired": true,
+      "choices": [
+       {
+        "value": "item1",
+        "text": {
+         "default": "Questions",
+         "fi": "Kysymykset"
+        }
+       },
+       {
+        "value": "item2",
+        "text": {
+         "default": "It was not too long",
+         "fi": "Ei ollut liian pitkä"
+        }
+       },
+       {
+        "value": "item3",
+        "text": {
+         "default": "That it ended",
+         "fi": "Se että se loppui"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "showCompletedPage": false,
+  "navigateToUrl": "/SurveyCompleted_en",
+  "requiredText": ""
+ }
