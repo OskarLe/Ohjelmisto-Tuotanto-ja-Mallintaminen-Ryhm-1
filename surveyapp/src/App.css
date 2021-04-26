@@ -18,8 +18,10 @@
 
 .Header-text {
   margin-top: 0px;
+  margin-left: 10px;
   padding-top: 25px;
   color: #3f3f3f;
+  text-align: left;
 }
 
 .Survey {
