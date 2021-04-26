@@ -5,8 +5,12 @@
    "fi": "Työhyvinvointikysely"
   },
   "description": {
-   "fi": "Vastaaminen on täysin anonyymiä",
+   "fi": "Vastaaminen on täysin anonyymiä.",
    "default": "Answering the survey is completely anonymous."
+  },
+  "completedHtml": {
+   "fi": "<h2>Kiitos vastauksistasi!</h2>\n<br/>\n<button onclick=\"location.href='https://oskarle.github.io/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/'\" type=\"button\">Etusivulle</button>",
+   "default": "<h2>Thank you for your answers!</h2>\n<br/>\n<button onclick=\"location.href='https://oskarle.github.io/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/'\" type=\"button\">Back to front page</button>"
   },
   "pages": [
    {
@@ -175,7 +179,6 @@
     ]
    }
   ],
-  "showCompletedPage": false,
-  "navigateToUrl": "/SurveyCompleted_en",
+  "cookieName": "surveycookie",
   "requiredText": ""
  }
