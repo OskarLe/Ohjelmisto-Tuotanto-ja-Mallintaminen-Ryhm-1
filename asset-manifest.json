@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/css/main.fd450129.chunk.css",
-    "main.js": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/main.9b067acc.chunk.js",
-    "main.js.map": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/main.9b067acc.chunk.js.map",
+    "main.js": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/main.2694d552.chunk.js",
+    "main.js.map": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/main.2694d552.chunk.js.map",
     "runtime-main.js": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/runtime-main.a81bc80f.js",
     "runtime-main.js.map": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/runtime-main.a81bc80f.js.map",
     "static/css/2.1111f917.chunk.css": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/css/2.1111f917.chunk.css",
-    "static/js/2.76466094.chunk.js": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/2.76466094.chunk.js",
-    "static/js/2.76466094.chunk.js.map": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/2.76466094.chunk.js.map",
+    "static/js/2.ef0c150a.chunk.js": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/2.ef0c150a.chunk.js",
+    "static/js/2.ef0c150a.chunk.js.map": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/2.ef0c150a.chunk.js.map",
     "static/js/3.664833de.chunk.js": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/3.664833de.chunk.js",
     "static/js/3.664833de.chunk.js.map": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/3.664833de.chunk.js.map",
     "index.html": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/index.html",
     "static/css/2.1111f917.chunk.css.map": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/css/2.1111f917.chunk.css.map",
     "static/css/main.fd450129.chunk.css.map": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/css/main.fd450129.chunk.css.map",
-    "static/js/2.76466094.chunk.js.LICENSE.txt": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/2.76466094.chunk.js.LICENSE.txt"
+    "static/js/2.ef0c150a.chunk.js.LICENSE.txt": "/Ohjelmisto-Tuotanto-ja-Mallintaminen-Ryhm-1/static/js/2.ef0c150a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a81bc80f.js",
     "static/css/2.1111f917.chunk.css",
-    "static/js/2.76466094.chunk.js",
+    "static/js/2.ef0c150a.chunk.js",
     "static/css/main.fd450129.chunk.css",
-    "static/js/main.9b067acc.chunk.js"
+    "static/js/main.2694d552.chunk.js"
   ]
 }
